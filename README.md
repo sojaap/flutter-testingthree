@@ -1,23 +1,17 @@
 # Biodata Mahasiswa 🎓
 
-A professional and high-fidelity Flutter application for managing student biodata. This app features a modern design with Material 3, clean layouts, and a polished user profile display.
+Aplikasi Flutter sederhana untuk input dan menampilkan biodata mahasiswa dengan tampilan yang modern dan bersih. Dibuat menggunakan Material 3 untuk memenuhi tugas praktikum.
 
 ## ✨ Features
 
-- **Dynamic Form Input**: Capture comprehensive student details including:
-  - Personal Data (Name, Place/Date of Birth, Gender, Religion)
-  - Contact Information (WhatsApp, Email, Address)
-  - Academic Background (Education Level)
-- **Premium Profile Display**: A high-fidelity profile view featuring:
-  - Gradient header with modern aesthetics.
-  - Perfectly fitted circular profile image.
-  - Organized detail cards for better readability.
-  - Interactive back navigation.
-- **Modern UI/UX**:
-  - Material 3 design system.
-  - Responsive layouts.
-  - Custom Inter typography.
-  - Shadow effects and smooth transitions.
+- Input Biodata Lengkap: Mulai dari nama, TTL, alamat, sampai kontak (WA/Email).
+- Tampilan Profil : Hasil input ditampilkan dalam bentuk kartu profil.
+- Validasi Form: Mencegah data kosong saat di-submit.
+
+## Identitas Praktikan
+- Nama: Soja Purnamasari
+- NPM: 4523210104
+- Mata Kuliah: Prak. Pemrograman Berbasis Web (B)
 
 ## 🚀 Getting Started
 
@@ -55,17 +49,12 @@ A professional and high-fidelity Flutter application for managing student biodat
 - **Fonts**: Inter (Google Fonts)
 
 ## 📸 Screenshots
-
-|          Form Input          |       Profile Display        |
-| :--------------------------: | :--------------------------: |
-| _Input Form with Validation_ | _Profile Card with Gradient_ |
-
 ---
-
 ## Input data & Tampilkan Profil
 
 - ![alt text](image-4.png)
 - ![alt text](image-5.png)
 - ![alt text](image-6.png)
 - ![alt text](image-7.png)
-  Developed with Flutter.
+---
+Developed with Flutter.
