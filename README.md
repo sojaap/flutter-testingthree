@@ -1,17 +1,71 @@
-# biodata_mahasiswa
+# Biodata Mahasiswa 🎓
 
-A new Flutter project.
+A professional and high-fidelity Flutter application for managing student biodata. This app features a modern design with Material 3, clean layouts, and a polished user profile display.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- **Dynamic Form Input**: Capture comprehensive student details including:
+  - Personal Data (Name, Place/Date of Birth, Gender, Religion)
+  - Contact Information (WhatsApp, Email, Address)
+  - Academic Background (Education Level)
+- **Premium Profile Display**: A high-fidelity profile view featuring:
+  - Gradient header with modern aesthetics.
+  - Perfectly fitted circular profile image.
+  - Organized detail cards for better readability.
+  - Interactive back navigation.
+- **Modern UI/UX**:
+  - Material 3 design system.
+  - Responsive layouts.
+  - Custom Inter typography.
+  - Shadow effects and smooth transitions.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- An Android Emulator, iOS Simulator, or physical device.
+
+### Installation
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone <repository-url>
+   cd biodata_mahasiswa
+   ```
+
+2. **Get dependencies**:
+
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the application**:
+   ```bash
+   flutter run
+   ```
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Flutter](https://flutter.dev)
+- **Language**: [Dart](https://dart.dev)
+- **Design System**: Material 3
+- **Fonts**: Inter (Google Fonts)
+
+## 📸 Screenshots
+
+|          Form Input          |       Profile Display        |
+| :--------------------------: | :--------------------------: |
+| _Input Form with Validation_ | _Profile Card with Gradient_ |
+
+---
+
+## Input data & Tampilkan Profil
+
+- ![alt text](image-4.png)
+- ![alt text](image-5.png)
+- ![alt text](image-6.png)
+- ![alt text](image-7.png)
+  Developed with Flutter.
